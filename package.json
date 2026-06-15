@@ -1,0 +1,11 @@
+{
+  "name": "lumiverse-janny-hub",
+  "version": "1.0.0",
+  "description": "Import JanitorAI characters via JannyAI directly inside Lumiverse",
+  "main": "src/backend.ts",
+  "browser": "src/frontend.ts",
+  "scripts": {},
+  "dependencies": {
+    "lumiverse-spindle-types": "latest"
+  }
+}
