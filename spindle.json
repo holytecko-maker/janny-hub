@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "Janny Hub",
+  "identifier": "janny_hub_importer",
+  "author": "holytecko",
+  "github": "https://github.com/holytecko-maker/janny-hub",
+  "description": "Import JanitorAI characters via JannyAI directly inside Lumiverse.",
+  "permissions": [],
+  "entry_backend": "src/backend.ts",
+  "entry_frontend": "src/frontend.ts"
+}
